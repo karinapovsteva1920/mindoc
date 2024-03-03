@@ -3,7 +3,8 @@ layout: default
 title: Supplements
 number: 005
 ---
-### Вкладки{.tabset}
+### Вкладки
+{.tabset}
 #### Первая вкладка
 Содержимое первой вкладки
 #### Вторая вкладка
