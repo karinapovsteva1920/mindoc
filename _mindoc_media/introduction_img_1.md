@@ -3,7 +3,7 @@ page: introduction
 title: Image_№1_from_Introduction
 media_type: image
 
-_title: Apple tree
+_title: Dreams and Ghosts
 description: Main page photo
 creator: Unknown
 _date: Unknown
@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/main_page.jpg 
+_path: assets/img/The Book of Dreams and ghosts.jpg 
 order: '01'
 layout: image_description
 ---
