@@ -21,7 +21,7 @@ order: '03'
 layout: image_description
 ---
 
-_title: Cute doggo with kitties
+_title: Cute horse with a cat
 description: Photo of an American photographer used as a postcard
 creator: Harry Whittier Frees
 _date: "1914"
